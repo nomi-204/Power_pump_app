@@ -1,0 +1,11 @@
+# Pump Power Calculator
+
+This app calculates the power required for a water pump using:
+- Flow rate
+- Head
+- Efficiency
+
+Formula used:
+Power = (ρ × g × Q × H) / η
+
+Author: Nouman Shah
